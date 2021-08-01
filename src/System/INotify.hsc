@@ -26,7 +26,7 @@ module System.INotify
     , withINotify
     , addWatch
     , removeWatch
-    , INotify
+    , INotify(..)
     , WatchDescriptor
     , Event(..)
     , EventVariety(..)
